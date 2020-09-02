@@ -1,7 +1,10 @@
 // Your First Program
 
-class HelloWorld {
+public class HelloWorld {
+
     public static void main(String[] args) {
-        System.out.println("Hello, World!"); 
+        // Prints "Hello World, DevOps has arrived!" to the terminal window.
+        System.out.println("Hello World, DevOps has arrived!");
     }
+
 }
