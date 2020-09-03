@@ -1,6 +1,6 @@
 // Your First Program
 
-public class HelloWorld {
+public class Hello {
 
     public static void main(String[] args) {
         // Prints "Hello World, DevOps has arrived!" to the terminal window.
